@@ -1,0 +1,29 @@
+{
+  "name": "cafeteria",
+  "version": "1.0.0",
+  "description": "Proyecto usando HTML semántico, SASS y Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Santiago García <santi_ga1020@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "cssnano": "^5.0.17",
+    "gulp": "^4.0.2",
+    "gulp-avif": "^1.0.1",
+    "gulp-imagemin": "^7.0.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-webp": "^4.0.1",
+    "postcss": "^8.4.7",
+    "sass": "^1.49.9"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%"
+  ]
+}
